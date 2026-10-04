@@ -1,0 +1,15 @@
+=== Threads: 1 ===
+Mean: 47.7769
+Standard deviation: 29.5652
+Time: 0.001000 seconds
+
+=== Threads: 2 ===
+Mean: 47.7769
+Standard deviation: 29.5652
+Time: 0.000000 seconds
+
+=== Threads: 4 ===
+Mean: 47.7769
+Standard deviation: 29.5652
+Time: 0.001000 seconds
+
