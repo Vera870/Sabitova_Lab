@@ -1,0 +1,24 @@
+=== Generated vectors ===
+Vector 1: (0.56, 5.12, 8.46, -0.53, -8.71)
+Vector 2: (-4.06, 8.55, 9.17, -3.28, -4.50)
+Vector 3: (-0.86, 1.56, -4.10, 1.89, 8.97)
+Vector 4: (-7.36, -1.65, 5.46, -0.90, 6.61)
+Vector 5: (7.81, -0.31, 1.11, 1.26, -7.99)
+Vector 6: (-3.37, 6.95, 3.09, -4.06, -5.72)
+
+=== All pairwise dot products ===
+dot(Vector 1, Vector 2) = 160.0140
+dot(Vector 1, Vector 3) = -106.3108
+dot(Vector 1, Vector 4) = -23.4741
+dot(Vector 1, Vector 5) = 81.1021
+dot(Vector 1, Vector 6) = 111.8112
+dot(Vector 2, Vector 3) = -67.3316
+dot(Vector 2, Vector 4) = 39.0493
+dot(Vector 2, Vector 5) = 7.6418
+dot(Vector 2, Vector 6) = 140.4968
+dot(Vector 3, Vector 4) = 38.9603
+dot(Vector 3, Vector 5) = -81.0401
+dot(Vector 3, Vector 6) = -57.9106
+dot(Vector 4, Vector 5) = -104.8574
+dot(Vector 4, Vector 6) = -3.9481
+dot(Vector 5, Vector 6) = 15.5429
