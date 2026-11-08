@@ -59,6 +59,7 @@ plt.xlim(0, 1.1)
 plt.ylim(0, 1.1)
 plt.grid(True, linestyle='--')
 plt.legend()
+plt.savefig('14.png')
 plt.show()
 
 
