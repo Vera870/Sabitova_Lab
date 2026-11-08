@@ -64,4 +64,5 @@ ax3.set_title('Контурный график (contourf)')
 fig.colorbar(contour, ax=ax3)
 
 plt.tight_layout()
+plt.savefig('12_2.png')
 plt.show()
